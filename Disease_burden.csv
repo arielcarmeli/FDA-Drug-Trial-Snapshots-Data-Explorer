@@ -1,0 +1,44 @@
+﻿Therapeutic_Area,Indication,Metric,Year,Asian,Black,Hispanic,White
+Anesthesia and Analgesia,,,,,,,
+Cardiovascular Diseases,Hypertension,,,,,,
+Cardiovascular Diseases,Heart failure,,,,,,
+Cardiovascular Diseases,Hyperlipidemia,,,,,,
+Cardiovascular Diseases,Other Cardiovascular Disease,,,,,,
+Cardiovascular Diseases,Cardiomyopathy,,,,,,
+Dermatology,,,,,,,
+Endocrinology and Metabolism,Other Endocrinology and Metabolism,,,,,,
+Endocrinology and Metabolism,Hypophosphatasia,,,,,,
+Endocrinology and Metabolism,Type 2 diabetes,,,,,,
+Gastroenterology,,,,,,,
+Gynecology,,,,,,,
+Hematology,Other Hematology,,,,,,
+Hematology,Sickle Cell,,,,,,
+Infectious Disease,Chronic Hepatitis-C,New_cases,2019, 0.01 , 0.15 , 0.06 , 0.76 
+Infectious Disease,Urinary tract infection,,,,,,
+Infectious Disease,Other Infectious Diseases,,,,,,
+Infectious Disease,HIV-1,New_cases,2018, 0.02 , 0.42 , 0.27 , 0.28 
+Medical Imaging,,,,,,,
+Neurology,Parkinson's,,,,,,
+Neurology,Migraine,,,,,,
+Neurology,Other Neurology,,,,,,
+Neurology,Multiple Sclerosis,,,,,,
+Neurology,Seizures,,,,,,
+Neurology,Muscular dystrophy,,,,,,
+Oncology,Leukemia,Incidence,2014-2018, 0.04 , 0.11 , 0.14 , 0.69 
+Oncology,Other oncology,,,,,,
+Oncology,Non-small cell lung cancer (NSCLC),Incidence,2014-2018, 0.05 , 0.15 , 0.10 , 0.69 
+Oncology,Melanoma,Incidence,2014-2018, 0.00 , 0.01 , 0.04 , 0.94 
+Oncology,Bladder cancer,Incidence,2014-2018, 0.03 , 0.09 , 0.10 , 0.76 
+Oncology,Lymphoma,Incidence,2014-2018, 0.05 , 0.11 , 0.17 , 0.66 
+Oncology,Prostate cancer,Incidence,2014-2018, 0.04 , 0.22 , 0.14 , 0.58 
+Oncology,Multiple Myeloma,Incidence,2014-2018, 0.04 , 0.26 , 0.16 , 0.52 
+Oncology,Breast cancer,Incidence,2014-2018, 0.06 , 0.14 , 0.14 , 0.65 
+Ophthalmology,,,,,,,
+Psychiatry,Schizophrenia,,,,,,
+Psychiatry,Bipolar disorder,,,,,,
+Psychiatry,Major depressive disorder,,,,,,
+Psychiatry,Postpartum depression,,,,,,
+Psychiatry,Opioid withdrawal,,,,,,
+Pulmonology and Rheumatology,,,,,,,
+Sleep Disorders,,,,,,,
+Urology,,,,,,,

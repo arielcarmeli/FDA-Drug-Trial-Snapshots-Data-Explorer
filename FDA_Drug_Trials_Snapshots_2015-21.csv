@@ -1,0 +1,340 @@
+﻿Brand_Name,Sponsor,Therapeutic_Area,TA_subgroup,Indication,Indication_long,Approval_Year,Enrollment,Sex_comparison,Race_comparison,Age_comparison,Race_detail,Female,White,Black,Asian,Other_race,Hispanic,Age_65_or_older,Age_75_or_older,Age_80_or_older,United_States,FDA_provided_TA
+ADDYI,Sprout Pharmaceuticals,Gynecology,Gynecology,Hypoactive sexual desire disorder,"Treatment of acquired, generalized hypoactive sexual desire disorder (HSDD) in premenopausal women ",2015,3099,,,,,100,89,8,1,2,,0,0,0,,No. Dr. Bierer reviewed TA label
+ALECENSA,Genentech,Oncology,Non-small cell lung cancer (NSCLC),Non-small cell lung cancer (NSCLC),For the treatment of metastatic non-small cell lung cancer ,2015,253,,,,,55,74,2,18,7,,14,4,1,,Yes
+ARISTADA,Alkermes,Psychiatry,Schizophrenia,Schizophrenia,Treatment of schizophrenia ,2015,623,,,,,32,47,40,13,1,,0,0,0,,Yes
+AVYCAZ-1,Forest Pharmaceuticals,Infectious Disease,Other Infectious Diseases,Complicated intra-abdominal infection,Treatment of complicated intra-abdominal infection (abbreviated as cIAI) ,2015,203,,,,,26,60,1,27,12,,11,8,4,,No. Dr. Bierer reviewed TA label
+AVYCAZ-2,Forest Pharmaceuticals,Infectious Disease,Urinary tract infection,Urinary tract infection,Treatment of complicated urinary tract infection (abbreviated as cUTI) ,2015,135,,,,,74,60,5,10,25,,17,4,3,,No. Dr. Bierer reviewed TA label
+BRIDION,Merck,Anesthesia and Analgesia,Anesthesia and Analgesia,Reversal of effects of neuromuscular blocking agents ,For the reversal of the effects of certain neuromuscular blocking agents ,2015,3458,,,,,52,84,3,12,1,,29,1,1,,No. Dr. Bierer reviewed TA label
+CHOLBAM-1,Asklepion Pharmaceuticals,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Bile acid synthesis disorders,For treatment of bile acid synthesis disorders due to single enzyme defects ,2015,44,,,,,43,61,11,7,20,,,,,,No. Dr. Bierer reviewed TA label
+CHOLBAM-2,Asklepion Pharmaceuticals,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Peroxisomal disorders,"For treatment of peroxisomal disorders, including Zellweger spectrum disorders ",2015,226,,,,,33,83,0,0,17,,,,,,No. Dr. Bierer reviewed TA label
+CORLANOR,Amgen,Cardiovascular Diseases,Heart failure,Heart failure,To reduce hospitalization from worsening heart failure. ,2015,6505,,,,,24,89,1,8,2,,38,11,3,,Yes
+COSENTYX,Novartis,Dermatology,Plaque psoriasis,Plaque psoriasis,Treatment of moderate to severe plaque psoriasis in adults who do not respond well to medication applied directly to the skin ,2015,2044,,,,,30,68,1,22,9,,8,1,1,,No. Dr. Bierer reviewed TA label
+COTELLIC,Genentech,Oncology,Melanoma,Melanoma,Part of combination treatment melanoma ,2015,495,,,,,42,93,,,7,,27,9,3,,Yes
+CRESEMBA-1,Astellas Pharma,Infectious Disease,Other Infectious Diseases,Invasive aspergillosis ,Treatment of invasive aspergillosis ,2015,516,,,,,40,78,1,21,1,,24,5,1,,No. Dr. Bierer reviewed TA label
+CRESEMBA-2,Astellas Pharma,Infectious Disease,Other Infectious Diseases,Invasive mucormycosis,Treatment of invasive mucormycosis ,2015,37,,,,,19,68,11,22,0,,14,8,0,,No. Dr. Bierer reviewed TA label
+DAKLINZA,Bristol-Myers-Squibb,Infectious Disease,Chronic Hepatitis-C,Chronic Hepatitis-C,Treatment of chronic Hepatitis C genotype-3 infection ,2015,226,,,,,41,90,4,5,1,,7,0,0,,No. Dr. Bierer reviewed TA label
+DARZALEX,Janssen,Oncology,Multiple Myeloma,Multiple Myeloma,Treatment of multiple myeloma ,2015,156,,,,,46,76,10,6,8,,45,10,3,,Yes
+EMPLICITI,Bristol-Myers-Squibb,Oncology,Multiple Myeloma,Multiple Myeloma,Treatment of multiple myeloma ,2015,646,,,,,40,84,4,10,2,,57,20,7,,Yes
+ENTRESTO,Novartis,Cardiovascular Diseases,Heart failure,Heart failure,Treatment of heart failure ,2015,8442,,,,,22,66,5,18,11,,49,19,7,,Yes
+FARYDAK,Novartis,Oncology,Multiple Myeloma,Multiple Myeloma,Treatment of multiple myeloma ,2015,193,,,,,48,63,3,33,1,,35,5,0,,Yes
+GENVOYA-1,Gilead,Infectious Disease,HIV-1,HIV-1,Complete regimen for the treatment of HIV-1 in children twelve years of age and older ,2015,23,,,,,48,0,83,17,0,,0,0,0,,No. Dr. Bierer reviewed TA label
+GENVOYA-2,Gilead,Infectious Disease,HIV-1,HIV-1,Complete regimen for the treatment of HIV-1 in adults,2015,3171,,,,,13,61,23,9,7,,3,1,1,,No. Dr. Bierer reviewed TA label
+IBRANCE,Pfizer,Oncology,Breast cancer,Breast cancer,"Treatment of a specific form of advanced breast cancer called ER-positive, HER2- negative (ER+/HER-) breast cancer in women who have gone through menopause (post-menopausal) ",2015,165,,,,,100,90,1,6,3,,46,9,3,,Yes
+KANUMA-1,Alexion,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Lysosomal Acid Lipase deficiency,Treatment of Lysosomal Acid Lipase (LAL) deficiency in infants,2015,9,,,,,44,44,11,11,33,,0,0,0,,No. Dr. Bierer reviewed TA label
+KANUMA-2,Alexion,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Lysosomal Acid Lipase deficiency,Treatment of Lysosomal Acid Lipase (LAL) deficiency ,2015,66,,,,,50,83,2,5,11,,0,0,0,,No. Dr. Bierer reviewed TA label
+KENGREAL,The Medicines Company,Cardiovascular Diseases,Other Cardiovascular Diseases,Prevention of coronary artery blood clot formation in patients undergoing PCI,For prevention of coronary artery blood clot formation in patients undergoing PCI ,2015,11145,,,,,28,94,3,3,1,,48,18,8,,Yes
+KYBELLA,Kythera Biopharmaceuticals,Dermatology,Other Dermatology,Double chin,Treatment for double chin ,2015,1022,,,,,85,87,8,2,3,,1,0,0,,No. Dr. Bierer reviewed TA label
+LENVIMA,Eisai,Oncology,Other oncology,Differentiated thyroid cancer,"Treatment of progressive, differentiated thyroid cancer (DTC) that can no longer be treated with radioactive iodine ",2015,392,,,,,49,79,2,18,1,,40,10,4,,Yes
+LONSURF,Taiho Oncology,Oncology,Other oncology,Colorectal cancer,Treatment of advanced colorectal cancer ,2015,800,,,,,39,58,1,35,7,,44,8,1,,Yes
+NATPARA,NPS Pharmaceuticals,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Hypoparathyroidism,For control of hypocalcemia along with calcium and vitamin D in adults with hypoparathyroidism ,2015,124,,,,,79,96,1,2,2,,6,1,1,,No. Dr. Bierer reviewed TA label
+NINLARO,Takeda,Oncology,Multiple Myeloma,Multiple Myeloma,Treatment of multiple myeloma ,2015,722,,,,,43,85,2,9,5,,58,2,1,,Yes
+NUCALA,GlaxoSmithKline,Pulmonology and Rheumatology,Pulmonology,Asthma,For the treatment of a specific type of severe asthma (called eosinophilic phenotype asthma) ,2015,1327,,,,,59,85,3,11,1,,9,10,3,,No. Dr. Bierer reviewed TA label
+ODOMZO,Novartis,Oncology,Melanoma,Melanoma,Treatment of locally advanced basal cell carcinoma ,2015,230,,,,,37,94,1,0,6,,54,34,23,,Yes
+ORKAMBI,Vertex,Pulmonology and Rheumatology,Rheumatology,Cystic fibrosis,Treatment of cystic fibrosis ,2015,1108,,,,,49,99,0,0,1,,0,0,0,,No. Dr. Bierer reviewed TA label
+PORTRAZZA,Eli Lilly,Oncology,Non-small cell lung cancer (NSCLC),Non-small cell lung cancer (NSCLC),For the treatment of metastatic squamous non-small cell lung cancer ,2015,1093,,,,,17,84,1,8,8,,39,4,1,,Yes
+PRALUENT,Sanofi,Cardiovascular Diseases,Hyperlipidemia,Hyperlipidemia,Treatment of certain patients with high cholesterol ,2015,3752,,,,,40,90,4,3,3,,32,6,1,,Yes
+PRAXBIND,Boehringer-Ingelheim,Cardiovascular Diseases,Other Cardiovascular Diseases,Reversal of the anticoagulant effects of Pradaxa,Reversal of the anticoagulant effects of Pradaxa during emergency situations or when there is a need to reverse its blood-thinning effects. ,2015,123,,,,,47,85,1,7,7,,90,60,44,,Yes
+REPATHA-1,Amgen,Cardiovascular Diseases,Hyperlipidemia,Hyperlipidemia,Treatment of certain patients with high cholesterol - Patients with Clinical Atherosclerotic Cardiovascular Disease or HeFH,2015,4177,,,,,50,84,5,9,2,,28,3,1,,Yes
+REPATHA-2,Amgen,Cardiovascular Diseases,Hyperlipidemia,Hyperlipidemia,Treatment of certain patients with high cholesterol - Patients with HoFH,2015,49,,,,,49,90,0,4,6,,0,0,0,,Yes
+REXULTI-1,Otsuka,Psychiatry,Schizophrenia,Schizophrenia,Treatment of schizophrenia ,2015,852,,,,,37,63,24,7,6,,1,0,0,,Yes
+REXULTI-2,Otsuka,Psychiatry,Major depressive disorder,Major depressive disorder,Treatment of major depressive disorder ,2015,1054,,,,,69,85,12,1,2,,1,0,0,,Yes
+SAVAYSA-1,Daiichi Sankyo,Cardiovascular Diseases,Other Cardiovascular Diseases,Venous thromboembolism,Reduction of risk of venous thromboembolism (VTE) in patients with previous VTE ,2015,8292,,,,,43,70,4,21,5,,33,13,6,,Yes
+SAVAYSA-2,Daiichi Sankyo,Cardiovascular Diseases,Other Cardiovascular Diseases,Prevention of stroke,Prevention of stroke in patients with atrial fibrillation ,2015,21026,,,,,38,81,1,14,4,,74,40,17,,Yes
+STRENSIQ-1,Alexion,Endocrinology and Metabolism,Hypophosphatasia,Hypophosphatasia,"Treatment of perinatal, infantile -onset hypophosphatasia (HPP) ",2015,79,,,,,52,81,0,9,10,,0,0,0,,No. Dr. Bierer reviewed TA label
+STRENSIQ-2,Alexion,Endocrinology and Metabolism,Hypophosphatasia,Hypophosphatasia,Treatment of juvenile-onset hypophosphatasia (HPP) ,2015,20,,,,,50,95,0,0,5,,0,0,0,,No. Dr. Bierer reviewed TA label
+TAGRISSO,AstraZeneca,Oncology,Non-small cell lung cancer (NSCLC),Non-small cell lung cancer (NSCLC),Treatment of patients with advanced nonsmall cell lung cancer (NSCLC) ,2015,411,,,,,68,36,1,60,3,,45,13,4,,Yes
+TRESIBA-1,Novo Nordisk,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Type 1 diabetes mellitus,To improve glucose control in adults with type 1 diabetes mellitus ,2015,1577,,,,,44,80,1,16,2,,7,1,1,,No. Dr. Bierer reviewed TA label
+TRESIBA-2,Novo Nordisk,Endocrinology and Metabolism,Type 2 diabetes,Type 2 diabetes,To improve glucose control in adults with type 2 diabetes mellitus ,2015,4048,,,,,44,70,7,21,2,,24,3,1,,No. Dr. Bierer reviewed TA label
+UNITUXIN,United Therapeutics Corporation,Oncology,Other oncology,Neuroblastoma,Treatment of children with high-risk neuroblastoma ,2015,226,,,,,40,82,7,3,8,,,,,,Yes
+UPTRAVI,Actelion Therapeutics,Cardiovascular Diseases,Hypertension,Hypertension,For the treatment of adults with pulmonary artery hypertension ,2015,1156,,,,,80,75,2,21,2,,18,1,1,,Yes
+VARUBI,Tesaro,Anesthesia and Analgesia,Anesthesia and Analgesia,Chemotherapy induced nausea and vomiting ,To prevent delayed phase chemotherapy induced nausea and vomiting ,2015,2595,,,,,60,75,2,14,9,,26,5,1,,No. Dr. Bierer reviewed TA label
+VELTASSA,Relypsa,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Hyperkalemia,Treatment of hyperkalemia ,2015,715,,,,,39,99,1,1,1,,61,21,4,,No. Dr. Bierer reviewed TA label
+VIBERZI,Forest Pharmaceuticals,Gastroenterology,Gastroenterology,Irritable bowel syndrome,Treatment of irritable bowel syndrome with diarrhea ,2015,2425,,,,,66,86,12,1,2,,10,6,1,,No. Dr. Bierer reviewed TA label
+VRAYLAR-1,Forest Laboratories,Psychiatry,Schizophrenia,Schizophrenia,Treatment of schizophrenia ,2015,1065,,,,,28,43,34,17,6,,1,0,0,,Yes
+VRAYLAR-2,Forest Laboratories,Psychiatry,Bipolar disorder,Bipolar disorder,Treatment of bipolar disorder ,2015,1754,,,,,41,49,25,24,2,,1,0,0,,Yes
+XURIDEN,Wellstat Therapeutics Corporation,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Hereditary orotic aciduria,Treatment of patients with hereditary orotic aciduria ,2015,4,,,,,25,100,0,0,0,,,,,,No. Dr. Bierer reviewed TA label
+YONDELIS,Janssen,Oncology,Other oncology,Advanced tissue sarcomas,Treatment of certain types of advances tissue sarcoma ,2015,518,,,,,70,76,12,4,8,,22,3,1,,Yes
+ZURAMPIC,AstraZeneca,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Gout,For lowering uric acid levels in the blood of adult patients with gout ,2015,1027,,,,,4,78,12,6,5,,13,3,1,,No. Dr. Bierer reviewed TA label
+ADLYXIN-1,Sanofi,Endocrinology and Metabolism,Type 2 diabetes,Type 2 diabetes,Treatment of type-2 diabetes mellitus ,2016,4508,,,,,52,64,3,32,2,,19,,,,No. Dr. Bierer reviewed TA label
+ADLYXIN-2,Sanofi,Endocrinology and Metabolism,Type 2 diabetes,Type 2 diabetes,Treatment of type-2 diabetes mellitus who recently suffered a heart attack,2016,6068,,,,,31,75,4,13,8,,34,,,,No. Dr. Bierer reviewed TA label
+ANTHIM,Elusys Therapeutics,Infectious Disease,Other Infectious Diseases,Inhalational anthrax,For the treatment of inhalational anthrax ,2016,370,,,,,46,69,28,1,2,,9,,,,No. Dr. Bierer reviewed TA label
+AXUMIN,Blue Earth Diagnostics,Oncology,Prostate cancer,Prostate cancer,Detection of prostate cancer recurrence ,2016,596,,,,,0,31,4,1,64,,66,,,,No. Dr. Bierer reviewed TA label
+BRIVIACT,UCB,Neurology,Seizures,Seizures,Treatment of partial-onset seizures ,2016,1558,,,,,49,74,3,12,11,,2,,,,No. Dr. Bierer reviewed TA label
+CINQUAIR,Teva Pharmaceuticals,Pulmonology and Rheumatology,Pulmonology,Asthma,For the treatment of a specific type of severe asthma (called eosinophilic phenotype asthma) ,2016,1758,,,,,62,73,12,8,8,,6,,,,No. Dr. Bierer reviewed TA label
+DEFITELIO,Jazz Pharmaceuticals,Oncology,Other oncology,Hepatic veno-occlusive disease,Treatment of hepatic veno-occlusive disease (VOD) ,2016,528,,,,,45,71,6,4,19,,0,,,,No. Dr. Bierer reviewed TA label
+EPCLUSA,Gilead,Infectious Disease,Chronic Hepatitis-C,Chronic Hepatitis-C,"Treatment of chronic Hepatitis C virus genotypes-1,2,3,4,5_or_6_infection ",2016,1825,,,,,38,85,6,7,2,,11,,,,No. Dr. Bierer reviewed TA label
+EUCRISA,Anacor Pharmaceuticals,Dermatology,Other Dermatology,Eczema (atopic dermatitis),To treat mild to moderate eczema (atopic dermatitis) in patients two years of age and older ,2016,1522,,,,,56,61,28,5,6,,0,,,,No. Dr. Bierer reviewed TA label
+EXONDYS_51-1,Serepta,Neurology,Muscular dystrophy,Muscular dystrophy,Treatment of Duchenne muscular dystrophy (DMD) in patients who have a confirmed mutation of the DMD gene that is amenable to exon_51 skipping ,2016,12,,,,,0,92,0,8,0,,0,,,,No. Dr. Bierer reviewed TA label
+EXONDYS_51-2,Serepta,Neurology,Muscular dystrophy,Muscular dystrophy,Treatment of Duchenne muscular dystrophy (DMD) in patients who have a confirmed mutation of the DMD gene that is amenable to exon_51 skipping ,2016,13,,,,,0,100,0,0,0,,0,,,,No. Dr. Bierer reviewed TA label
+LARTRUVO,Eli Lilly,Oncology,Other oncology,Soft tissue sarcoma,Treatment of soft tissue sarcoma ,2016,133,,,,,56,86,8,3,2,,32,,,,No. Dr. Bierer reviewed TA label
+NETSPOT,Advanced Accelerator Applications,Oncology,Neuroendocrine tumors,Neuroendocrine tumors,For detection of a specific type of tumors called somatostatin receptor positive neuro-endocrine tumors (NETs) ,2016,265,,,,,52,,,,100,,,,,,No. Dr. Bierer reviewed TA label
+NUPLAZID,Acadia Pharmaceuticals,Neurology,Parkinson's,Parkinson's,Treatment of hallucinations and delusions in patients with Parkinsons disease ,2016,433,,,,,36,91,1,5,3,,82,,,,No. Dr. Bierer reviewed TA label
+OCALIVA,Intercept Pharmaceuticals,Gastroenterology,Gastroenterology,Primary biliary cholangitis,Treatment of primary biliary cholangitis in adults ,2016,216,,,,,91,94,1,1,3,,19,,,,No. Dr. Bierer reviewed TA label
+RUBRACA,Clovis Oncology,Oncology,Other oncology,Ovarian cancer,Treatment of women with certain type of advanced ovarian cancer ,2016,377,,,,,100,80,2,6,12,,42,,,,No. Dr. Bierer reviewed TA label
+SPINRAZA,Biogen,Neurology,Other Neurology,Spinal muscular atrophy,Spinal muscular atrophy (SMA) ,2016,121,,,,,55,86,2,6,6,,0,,,,No. Dr. Bierer reviewed TA label
+TALTZ,Eli Lilly,Dermatology,Plaque psoriasis,Plaque psoriasis,Treatment of moderate to severe plaque psoriasis in adults ,2016,1958,,,,,32,93,2,4,1,,7,,,,No. Dr. Bierer reviewed TA label
+TECENTRIQ,Genentech,Oncology,Bladder cancer,Bladder cancer,Treatment of a type of bladder cancer called urothelial carcinoma ,2016,310,,,,,78,91,2,2,5,,59,,,,No. Dr. Bierer reviewed TA label
+VENCLEXTA,AbbVie / Genentech,Oncology,Leukemia,Leukemia,Treatment of chronic lymphocytic leukemia (CLL) ,2016,240,,,,,31,94,3,1,3,,58,,,,No. Dr. Bierer reviewed TA label
+XIIDRA,Shire,Ophthalmology,Ophthalmology,Dry eye disease,Treatment of the signs and symptoms of dry eye disease ,2016,2133,,,,,76,85,9,4,2,,37,,,,No. Dr. Bierer reviewed TA label
+ZEPATIER,Merck,Infectious Disease,Chronic Hepatitis-C,Chronic Hepatitis-C,Treatment of chronic Hepatis C genotypes-1-or-4 infection ,2016,2704,,,,,39,75,15,9,1,,11,,,,No. Dr. Bierer reviewed TA label
+ZINBRYTA,Biogen,Neurology,Multiple Sclerosis,Multiple Sclerosis,Treatment of relapsing forms of multiple sclerosis (MS) ,2016,2253,,,,,67,91,1,3,5,,0,,,,No. Dr. Bierer reviewed TA label
+ZINPLAVA,Merck,Infectious Disease,Other Infectious Diseases,Clostridium difficile infection,Decreasing the risk of Clostridium difficile infection recurrence ,2016,1567,,,,,57,85,5,8,2,,62,,,,No. Dr. Bierer reviewed TA label
+ALIQOPA,Bayer,Oncology,Lymphoma,Lymphoma,Treatment of relapsed follicular lymphoma,2017,168,,,,,54,83,0,9,8,6,48,,,13,Yes
+ALUNBRIG,Ariad Pharmaceuticals,Oncology,Non-small cell lung cancer (NSCLC),Non-small cell lung cancer (NSCLC),Treatment of metastatic non-small cell lung cancer,2017,222,,,,,57,67,1,31,1,6,23,,,,Yes
+AUSTEDO,Teva Pharmaceuticals,Neurology,Other Neurology,Huntington's disease,Treatment of chorea associated with Huntington's disease,2017,90,,,,,44,92,6,0,2,0,19,,,93,Yes
+BAVENCIO,EMD Serono,Oncology,Melanoma,Melanoma,Treatment of metastatic Merkel cell carcinoma,2017,88,,,,,26,92,0,3,5,6,75,,,58,Yes
+BAXDELA,Melinta Therapeutics,Infectious Disease,Other Infectious Diseases,Acute bacterial skin and skin structure infections,Treatment of actue bacteria skin and skin structure infection,2017,1510,,,,,37,86,5,0,9,28,14,,,52,Yes
+BENZNIDAZOLE,Exeltis,Infectious Disease,Other Infectious Diseases,Chagas disease,Treatment of Chagas disease,2017,235,,,,,46,,,,,,0,,,0,Yes
+BESPONSA,Pfizer,Oncology,Leukemia,Leukemia,Treatment of B-cell acute lymphocytic leukemia,2017,326,,,,,41,71,2,17,10,,37,,,47,Yes
+BEVYXXA,Portola Pharmaceuticals,Hematology,Other Hematology,Venous thromboembolism,Prevention of venous thromboembolism,2017,7513,,,,,54,93,2,1,4,11,90,,,7,No. Dr. Bierer reviewed TA label
+BRINEURA,BioMarin Pharmaceutical,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Batten disease,Treatment of Batten disease,2017,24,,,,,63,96,0,4,0,4,0,,,13,No. Dr. Bierer reviewed TA label
+CALQUENCE,AstraZeneca,Oncology,Lymphoma,Lymphoma,Treatment of mantle cell lymphoma,2017,124,,,,,20,74,3,0,23,3,65,,,36,Yes
+DUPIXENT,Regeneron,Dermatology,Other Dermatology,Atopic dermatitis,Treatment of atopic dermatitis,2017,1338,,,,,42,67,6,24,3,4,4,,,34,No. Dr. Bierer reviewed TA label
+EMFLAZA,Marathon Pharmaceuticals,Neurology,Muscular dystrophy,Muscular dystrophy,Treatment of Duchenne musuclar dystrophy,2017,196,,,,,0,94,0,1,5,,0,,,,Yes
+FASENRA,AstraZeneca,Pulmonology and Rheumatology,Pulmonology,Asthma,Treatment of eosinophilic asthma,2017,1817,,,,,63,80,3,12,5,20,13,,,15,No. Dr. Bierer reviewed TA label
+GIAPREZA,La Jolla Pharmaceutical Company,Infectious Disease,Other Infectious Diseases,To increase blood pressure in septic shock,To increase blood pressure in septic or other distributive shock,2017,321,,,,,39,80,10,4,6,5,48,,,74,No. Dr. Bierer reviewed TA label
+HEMLIBRA,Genentech,Hematology,Other Hematology,Hemophilia A,To prevent or reduce bleeding in patients with hemophilia A,2017,189,,,,,0,56,11,26,7,12,3,,,28,No. Dr. Bierer reviewed TA label
+IDHIFA,Celgene,Oncology,Leukemia,Leukemia,Treatment of relapsed acute myelogenous leukemia,2017,214,,,,,49,77,6,1,16,9,60,,,83,Yes
+IMFINZI,AstraZeneca,Oncology,Bladder cancer,Bladder cancer,Treatment of urothelial carcinoma,2017,182,,,,,28,64,3,20,13,,62,,,49,Yes
+INGREZZA,Neurocrine Biosciences,Neurology,Other Neurology,Tardive dyskinesia,Treatment of tardive dyskinesia,2017,445,,,,,42,57,39,1,3,28,18,,,100,Yes
+KEVZARA,Sanofi,Pulmonology and Rheumatology,Rheumatology,Rheumatoid arthritis ,Treatment of rheumatoid arthritis,2017,1740,,,,,82,81,3,6,10,39,13,,,14,No. Dr. Bierer reviewed TA label
+KISQALI,Novartis,Oncology,Breast cancer,Breast cancer,Treatment of HR-positive HER2-negative breast cancer,2017,668,,,,,100,82,3,8,7,10,44,,,32,Yes
+MACRILEN,Aeterna Zentaris,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Adult growth hormone deficiency,Diagnosis of adult growth hormone deficiency,2017,154,,,,,42,86,2,3,9,,2,,,24,Yes
+MAVYRET,AbbVie,Infectious Disease,Chronic Hepatitis-C,Chronic Hepatitis-C,"Treatment of chronic hepatitis C genotypes 1,2,3,4,5 or 6",2017,2369,,,,,44,80,6,12,2,9,14,,,32,Yes
+MEPSEVII,Ultragenyx Pharmaceuticals,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Mucopolysacchairdosis VII,Treatment of mucopolysacchairdosis VII,2017,12,,,,,67,75,0,0,25,50,0,,,100,No. Dr. Bierer reviewed TA label
+NERLYNX,Puma Biotechnology,Oncology,Breast cancer,Breast cancer,Treatment of HER2 positive breast cancer,2017,2840,,,,,100,81,3,13,3,2,12,,,32,Yes
+OCREVUS,Genentech,Neurology,Multiple Sclerosis,Multiple Sclerosis,Treatment of multiple sclerosis,2017,2388,,,,,61,92,4,0,4,11,0,,,26,Yes
+OZEMPIC,Novo Nordisk,Endocrinology and Metabolism,Type 2 diabetes,Type 2 diabetes,Treatment of type 2 diabetes mellitus,2017,7384,,,,,42,70,6,22,2,16,34,,,28,Yes
+PARSABIV,Amgen,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Secondary hyperparathyroidism,Treatment of secondary hyperparathyroidism in patients with chronic kidney disease on hemodialysis,2017,226,,,,,40,66,28,3,3,13,35,,,52,Yes
+PREVYMIS,Merck,Infectious Disease,Other Infectious Diseases,Prevention of cytomeglaovirus infection,Prevention of cytomeglaovirus infection in allogenic hematopoietic stem cell transplant,2017,565,,,,,42,82,2,10,6,7,16,,,36,Yes
+RADICAVA,Mitsubishi Tanabe Pharma Corporation,Neurology,Other Neurology,Amyotrophic lateral sclerosis,Treatment of amyotrophic lateral sclerosis,2017,368,,,,,39,0,0,100,0,0,30,,,0,Yes
+RHOPRESSA,Aerie Pharmaceuticals,Ophthalmology,Ophthalmology,Open angle glaucoma,Treatment of open angle glaucoma,2017,1875,,,,,62,73,25,2,0,19,54,,,100,No. Dr. Bierer reviewed TA label
+RYDAPT-1,Novartis,Oncology,Leukemia,Leukemia,Treatment of acute myelogenous leukemia,2017,717,,,,,56,38,2,2,58,2,0,,,33,Yes
+RYDAPT-2,Novartis,Oncology,Other oncology,Systemic mastocytosis,Treatment of systemic mastocytosis,2017,142,,,,,36,93,1,0,6,3,45,,,41,Yes
+SILIQ,Valeant Pharmaceuticals,Dermatology,Plaque psoriasis,Plaque psoriasis,Treatment of plaque psoriasis,2017,2915,,,,,31,91,3,3,3,,6,,,22,No. Dr. Bierer reviewed TA label
+SOLOSEC,Symbiomix Therapeutics,Infectious Disease,Other Infectious Diseases,Bacterial vaginosis,Treatment of bacterial vaginosis,2017,333,,,,,100,46,50,1,3,15,0,,,100,Yes
+STEGLATRO,Merck,Endocrinology and Metabolism,Type 2 diabetes,Type 2 diabetes,Treatment of type 2 diabetes mellitus,2017,4859,,,,,48,77,5,13,5,24,26,,,28,Yes
+SYMPROIC,Shionogi,Gastroenterology,Gastroenterology,Opioid-induced constipation,Treatment of opioid-induced constipation,2017,2336,,,,,62,80,18,1,1,8,15,,,85,No. Dr. Bierer reviewed TA label
+TREMFYA,Janssen,Dermatology,Plaque psoriasis,Plaque psoriasis,Treatment of plaque psoriasis,2017,1829,,,,,29,82,2,14,2,6,5,,,20,No. Dr. Bierer reviewed TA label
+TRULANCE,Synergy Pharmaceuticals,Gastroenterology,Gastroenterology,Chronic idiopathic constipation,Treatment of chronic idiopathic constipation,2017,1733,,,,,79,72,23,3,2,41,11,,,98,No. Dr. Bierer reviewed TA label
+TYMLOS,Radius Health,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Postmenopausal osteoporosis,Treatment of postmenopausal osteoporosis,2017,1645,,,,,100,80,3,16,1,24,81,,,2,Yes
+VABOMERE,The Medicines Company,Infectious Disease,Urinary tract infection,Urinary tract infection,Treatment of complicated urninary tract infection,2017,545,,,,,66,93,1,2,4,8,35,,,3,Yes
+VERZENIO,Eli Lilly,Oncology,Breast cancer,Breast cancer,Treatment of HR-positive HER2-negative breast cancer,2017,801,,,,,100,61,2,27,10,12,36,,,19,Yes
+VOSEVI,Gilead,Infectious Disease,Chronic Hepatitis-C,Chronic Hepatitis-C,"Treatment of hepatitis C genotypes 1,2,3,4,5 or 6",2017,748,,,,,23,84,12,2,2,7,16,,,57,Yes
+VYZULTA,Bausch & Lomb,Ophthalmology,Ophthalmology,Glaucoma,Treatment of Glaucoma,2017,840,,,,,58,74,24,1,1,12,52,,,91,No. Dr. Bierer reviewed TA label
+XADAGO,Newron Pharmaceuticals,Neurology,Parkinson's,Parkinson's,Treatement of Parkinson's disease,2017,1218,,,,,33,41,1,59,0,2,38,,,8,Yes
+XEPI,Medimetriks Pharmaceuticals,Infectious Disease,Other Infectious Diseases,Inpetigo,Treatment of inpetigo,2017,723,,,,,44,53,34,4,9,17,3,,,23,Yes
+XERMELO,"Lexicon Pharmaceuticals, Inc.",Gastroenterology,Gastroenterology,Carcinoid syndrome diarrhea,Treatment of carcinoid syndrome diarrhea,2017,90,,,,,50,90,1,0,9,0,49,,,32,No. Dr. Bierer reviewed TA label
+ZEJULA,Tesaro,Oncology,Other oncology,Ovarian cancer,Treatment of ovarian cancer,2017,553,,,,,100,87,1,3,9,3,35,,,70,Yes
+AEMCOLO,Conventus BioMedical Solutions,Infectious Disease,Other Infectious Diseases,Travelers diarrhea,Treatment of travelers diarrhea in adults ,2018,1099,yes,no,no,no - white majority,50,83,1,14,2,3,9,,,0,Yes
+AIMOVIG,Amgen,Neurology,Migraine,Migraine,Preventive treatment of migraine in adults ,2018,2184,yes,no,yes,no - white majority,85,15,7,1,77,7,0,,,49,Yes
+AJOVY,Teva Pharmaceuticals,Neurology,Migraine,Migraine,Preventive treatment of migraine in adults ,2018,1986,yes,no,no,no - white majority,87,80,9,10,1,10,2,,,73,Yes
+AKYNZEO,HELSINN Healthcare,Anesthesia and Analgesia,Anesthesia and Analgesia,Chemotherapy induced nausea and vomiting ,Prevention of the nausea and vomiting in adults receiving chemotherapy ,2018,844,yes,no,yes,no - white majority,40,100,1,1,0,,32,,,1,No. Dr. Bierer reviewed TA label
+ANNOVERA,"The Population Council, Inc",Gynecology,Gynecology,Pregnancy prevention,Pregnancy prevention in women ,2018,2308,n/a - women,yes,no,yes,100,70,14,4,12,30,0,,,67,No. Dr. Bierer reviewed TA label
+ASPARLAS,Baxalta,Oncology,Leukemia,Leukemia,Treatment of acute lymphoblastic leukemia (ALL) in children and young adults ,2018,237,yes,no,yes,no - white majority,38,70,5,4,21,17,0,,,62,Yes
+BIKTARVY,Gilead,Infectious Disease,HIV-1,HIV-1,Treatment of human immunodeficiency virus-1 (HIV-1) infection in adults ,2018,2414,yes,yes,no,yes,13,63,29,3,5,21,2,,,65,Yes
+BRAFTOVI,Array Biopharma,Oncology,Melanoma,Melanoma,Treatment of melanoma (a type of skin cancer) when used with another drug binimetinib ,2018,383,yes,no,yes,no - white majority,41,91,0,3,6,9,29,,,9,Yes
+COPIKTRA,Verastem,Oncology,Leukemia,Leukemia,"Treatment of chronic lymphocytic leukemia (CLL), small lymphocytic lymphoma (SLL), and follicular lymphoma (FL) ",2018,442,yes,no,yes,no - white majority,35,92,3,1,4,11,61,,,30,Yes
+CRYSVITA,Ultragenyx Pharmaceuticals,Endocrinology and Metabolism,Hypophosphatasia,Hypophosphatasia,Treatment of X-linked hypophosphatemia ,2018,199,yes,no,yes,no - white majority,60,83,3,11,3,8,1,,,59,No. Dr. Bierer reviewed TA label
+DAURISMO,Pfizer,Oncology,Leukemia,Leukemia,Treatment of newly diagnosed acute myeloid leukemia (AML) in those who cannot tolerate induction chemotherapy. ,2018,125,yes,no,yes,no - white majority,28,98,1,2,0,,98,,,23,Yes
+DIACOMIT,Biocodex,Neurology,Other Neurology,Dravet syndrome,Treatment of seizures associated with Dravet syndrome in patients two years and older taking clobazam ,2018,64,yes,no,no,not collected,53,,,,,,0,,,0,Yes
+DOPTELET,Dova Pharmaceuticals,Hematology,Other Hematology,Low platelet count ,Treatment of adults with low platelet count ,2018,435,yes,yes,yes,yes,35,60,3,33,4,18,25,,,19,No. Dr. Bierer reviewed TA label
+ELZONRIS,Stemline Therapeutics,Oncology,Other oncology,Blastic plasmacytoid dendritic cell neoplasm,Treatment of blastic plasmacytoid dendritic cell neoplasm (BPDCN) in adults and children ,2018,94,yes,no,yes,no - white majority,23,90,4,3,3,10,56,,,100,Yes
+EMGALITY,Eli Lilly,Neurology,Migraine,Migraine,Preventive treatment of migraine in adults ,2018,2156,yes,no,no,no - white majority,85,77,8,6,9,21,1,,,62,Yes
+EPIDIOLEX,Greenwich Research,Neurology,Seizures,Seizures,Treatment of seizures in two rare and severe forms of epilepsy. ,2018,550,yes,no,yes,no - white majority,46,86,4,2,8,2,0,,,75,Yes
+ERLEADA,Janssen,Oncology,Prostate cancer,Prostate cancer,Treatment of prostate cancer that has not spread to other parts of the body (non-metastatic) ,2018,1207,n/a - men,yes,yes,yes,0,66,6,12,16,1,88,,,28,Yes
+FIRDAPSE,Catalyst Pharmaceuticals,Neurology,Other Neurology,Lambert-Eaton myasthenic syndrome,Treatment of Lambert-Eaton myasthenic syndrome (LEMS) in adults ,2018,64,no,no,no,no - white majority,61,89,1,1,9,13,20,,,61,Yes
+GALAFOLD,Amicus Therapeutics,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Fabry disease,Treatment of Fabry disease in adults ,2018,67,yes,no,no,no - white majority,64,97,0,0,3,6,1,,,30,No. Dr. Bierer reviewed TA label
+GAMIFANT,Novimmune,Hematology,Other Hematology,Primary hemophagocytic lymphohistiocytosis ,Treatment of patients with primary hemophagocytic lymphohistiocytosis ,2018,34,no,no,no,no - white majority,53,65,9,15,11,,0,,,24,No. Dr. Bierer reviewed TA label
+ILUMYA,Merck,Dermatology,Plaque psoriasis,Plaque psoriasis,Treatment of moderate to severe plaque psoriasis ,2018,1060,yes,no,no,no - white majority,29,80,3,14,3,9,9,,,33,No. Dr. Bierer reviewed TA label
+KRINTAFEL,GlaxoSmithKline,Infectious Disease,Other Infectious Diseases,Malaria,Prevention of malaria relapse caused by the parasite Plasmodium vivax ,2018,522,yes,no,no,no - non-white majority,25,2,11,19,68,70,2,,,0,Yes
+LIBTAYO,Regeneron,Oncology,Melanoma,Melanoma,Treatment of advanced skin cancer (squamous cell carcinoma) ,2018,163,yes,no,yes,no - white majority,15,96,1,1,2,3,72,,,62,Yes
+LOKELMA,AstraZeneca,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Hyperkalemia,Treatment of hyperkalemia in adults ,2018,1011,yes,yes,yes,yes,41,85,12,2,1,33,57,,,90,No. Dr. Bierer reviewed TA label
+LORBRENA,Pfizer,Oncology,Non-small cell lung cancer (NSCLC),Non-small cell lung cancer (NSCLC),Treatment of specific type of lung cancer ,2018,295,yes,no,yes,no - white & asian majority,58,49,1,37,13,,18,,,34,Yes
+LUCEMYRA,US WorldMeds,Psychiatry,Opioid withdrawal,Opioid withdrawal,Treatment of symptoms associated with opioid withdrawal during abrupt opioid discontinuation. ,2018,866,yes,no,yes,no - white majority,28,67,22,1,10,17,1,,,100,No. Dr. Bierer reviewed TA label
+LUMOXITI,AstraZeneca,Oncology,Leukemia,Leukemia,Treatment of hairy cell leukemia in adults ,2018,80,yes,no,yes,no - white majority,21,90,1,1,8,6,39,,,44,Yes
+LUTATHERA,Advanced Accelerator Applications,Oncology,Neuroendocrine tumors,Neuroendocrine tumors,Treatment of somatostatin receptor-positive gastro-entero-pancreatic neuroendocrine tumors (GEP-NETs) ,2018,229,yes,no,yes,no - white majority,49,82,4,1,13,3,49,,,58,Yes
+MEKTOVI,Array Biopharma,Oncology,Melanoma,Melanoma,Treatment of melanoma (a type of skin cancer) when used with another drug encorafenib ,2018,383,yes,no,yes,no - white majority,41,91,0,3,6,9,29,,,9,Yes
+MOTEGRITY,Shire,Gastroenterology,Gastroenterology,Chronic idiopathic constipation,Treatment of chronic idiopathic constipation (CIC) in adults ,2018,2484,yes,no,yes,no - white & asian majority,76,76,3,19,2,,15,,,3,No. Dr. Bierer reviewed TA label
+MOXIDECTIN,Medicines Development for Global Health,Infectious Disease,Other Infectious Diseases,Onchocerciasis,Treatment of onchocerciasis in patients twelve years of age and older ,2018,1472,yes,no,yes,no - black majority,36,0,100,0,0,0,9,,,0,Yes
+MULPLETA,Shionogi,Hematology,Other Hematology,Low platelet count ,Treatment of adults with low platelet count ,2018,341,yes,yes,yes,yes,41,50,1,47,2,8,37,,,9,No. Dr. Bierer reviewed TA label
+NUZYRA-1,Paratek Pharmaceuticals,Infectious Disease,Other Infectious Diseases,Acute bacterial skin and skin structure infections,Treatment of bacterial skin infections known as acute bacterial skin and skin structure infections (ABSSSI) caused by certain bacteria ,2018,1390,Unknown,no,Unknown,no,42,92,4,1,3,35,7,,,83,Yes
+NUZYRA-2,Paratek Pharmaceuticals,Infectious Disease,Other Infectious Diseases,Community-acquired bacterial pneumonia,Treatment of community-acquired bacterial pneumonia (CABP) ,2018,774,yes,no,yes,no - white majority,45,92,2,5,1,3,42,,,1,No. Dr. Bierer reviewed TA label
+OLUMIANT,Eli Lilly,Pulmonology and Rheumatology,Rheumatology,Rheumatoid arthritis ,Treatment of adult patients with rheumatoid arthritis (RA) whose disease was not well controlled using RA medications called Tumor Necrosis Factor (TNF) antagonists ,2018,2456,yes,yes,yes,yes,80,67,3,25,5,25,18,,,22,No. Dr. Bierer reviewed TA label
+OMEGAVEN,Fresenius Kabi,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Parenteral nutrition-associated cholestasis,Treatment of parenteral nutrition-associated cholestasis (PNAC) ,2018,189,no,no,no,no,42,63,12,4,21,20,0,,,100,No. Dr. Bierer reviewed TA label
+ONPATTRO,Alnylam Pharmaceuticals,Neurology,Other Neurology,Transthyretin-mediated amyloidosis ,Treatment of nerve damage in adult patients with hereditary tranthyretin-mediated amyloidosis ,2018,225,yes,no,yes,no - white majority,26,73,2,23,2,12,42,,,19,Yes
+ORILISSA,Abbvie,Gynecology,Gynecology,Endometriosis ,Treatment of moderate to severe pain associated with endometriosis ,2018,1686,n/a - women,no,yes,no - white majority,100,88,9,1,2,15,0,,,75,No. Dr. Bierer reviewed TA label
+OXERVATE,Dompé farmaceutici,Ophthalmology,Ophthalmology,Neurotrophic keratitis ,Treatment of neurotrophic keratitis ,2018,151,yes,no,yes,no - white majority,62,90,3,,7,10,47,,,31,No. Dr. Bierer reviewed TA label
+PALYNZIQ,BioMarin Pharmaceutical,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Phenylketonuria,Lowering the blood levels of phenylalanine in adults with phenylketonuria (PKU) ,2018,285,yes,no,no,no - white majority,50,98,1,0,1,3,0,,,100,No. Dr. Bierer reviewed TA label
+PIFELTRO,Merck,Infectious Disease,HIV-1,HIV-1,Treatment of HIV-1 infection in adults ,2018,1494,yes,yes,no,yes,16,61,21,9,9,28,1,,,30,Yes
+POTELIGEO,Kyowa Kirin,Oncology,Lymphoma,Lymphoma,Treatment of adults with mycosis fungoides or Sezary syndrome ,2018,372,yes,no,yes,no - white majority,42,70,10,5,15,4,50,,,54,Yes
+REVCOVI,Lediant Biosciences,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Adenosine deaminase severe combined immune deficiency,Treatment of adenosine deaminase severe combined immune deficiency (ADA-SCID). ,2018,10,no,no,no,no,40,30,10,40,20,30,0,,,60,No. Dr. Bierer reviewed TA label
+SEYSARA,Allergan,Dermatology,Acne vulgaris,Acne vulgaris,Treatment of certain types of acne vulgaris in patients nine years and older ,2018,2133,yes,yes,yes,yes,58,77,16,3,4,27,0,,,100,No. Dr. Bierer reviewed TA label
+SYMDEKO,Vertex,Pulmonology and Rheumatology,Rheumatology,Cystic fibrosis,Treatment of cystic fibrosis ,2018,916,yes,no,yes,no - white majority,50,97,1,1,1,3,0,,,0,No. Dr. Bierer reviewed TA label
+TAKHZYRO,Dyax Corp.,Dermatology,Other Dermatology,Hereditary angioedema,Prevention of attacks of hereditary angioedema in people twelve years and older ,2018,125,yes,no,no,no - white majority,70,90,8,2,0,4,4,,,7,No. Dr. Bierer reviewed TA label
+TALZENNA,Pfizer,Oncology,Breast cancer,Breast cancer,Treatment of adults with a specific form of breast cancer ,2018,431,n/a - women,no,yes,no - white majority,98,70,3,11,16,11,9,,,36,Yes
+TAVALISSE,Rigel Pharmaceuticals,Hematology,Other Hematology,Chronic immune thrombocytopenia,Treatment of adults with low platelet count due to chronic immune thrombocytopenia (ITP) ,2018,150,yes,no,yes,no - white majority,61,93,3,3,1,3,26,,,13,No. Dr. Bierer reviewed TA label
+TEGSEDI,Ionis Pharmaceuticals,Neurology,Other Neurology,Transthyretin-mediated amyloidosis ,Treatment of nerve damage in adult patients with hereditary transthyretin-mediated amyloidosis ,2018,172,yes,no,yes,no - white majority,31,93,2,2,3,14,43,,,48,Yes
+TIBSOVO,Agios Pharmaceuticals,Oncology,Leukemia,Leukemia,Treatment of adults with acute myeloid leukemia (AML) that have a mutation in a gene called IDH1 and whose disease has come back or has not improved after previous treatment(s) ,2018,179,yes,no,yes,no - white majority,50,63,6,3,28,5,37,,,83,Yes
+TPOXX,SIGA Technologies,Infectious Disease,Other Infectious Diseases,Smallpox disease,Treatment of smallpox disease ,2018,449,yes,yes,no,yes,59,69,28,1,2,11,10,,,100,Yes
+TROGARZO,Thera,Infectious Disease,HIV-1,HIV-1,Treatment of human immunodeficiency virus-1 (HIV-1) infection in adults. ,2018,40,no,no,no,no,15,55,33,10,2,25,5,,,90,Yes
+ULTOMIRIS,Alexion,Hematology,Other Hematology,Paroxysmal nocturnal hemoglobinuria,Treatment of adults with paroxysmal nocturnal hemoglobinuria (PNH) ,2018,441,yes,no,yes,no - white & asian majority,47,47,3,39,11,6,14,,,4,No. Dr. Bierer reviewed TA label
+VITRAKVI,Bayer,Oncology,Other oncology,Metastatic solid tumors,Treatment of solid tumors which are metastatic and beyond surgical resection or do not have any other therapeutic options ,2018,176,yes,no,no,no - white majority,48,72,8,3,17,11,21,,,88,Yes
+VIZIMPRO,Pfizer,Oncology,Non-small cell lung cancer (NSCLC),Non-small cell lung cancer (NSCLC),Treatment of advanced non-small cell lung cancer ,2018,452,yes,no,yes,no - asian majority,60,23,1,77,0,0,40,,,0,Yes
+XERAVA,"Tetraphase Pharmaceuticals, Inc.",Infectious Disease,Other Infectious Diseases,Intra-abdominal infections,Treatment of complicated intra-abdominal infections caused by bacteria ,2018,1037,yes,no,yes,no - white majority,43,98,1,1,0,2,30,,,5,Yes
+XOFLUZA,Genentech,Infectious Disease,Other Infectious Diseases,Influenza,Treatment of the flu (influenza) in people twelve years of age and older ,2018,1119,yes,no,yes,no - white & asian majority,50,26,6,67,1,15,0,,,34,Yes
+XOSPATA,Astellas Pharma,Oncology,Leukemia,Leukemia,Treatment of relapsed or refractory acute myeloid leukemia with one specific gene mutation ,2018,292,yes,no,yes,no - white & asian majority,53,62,5,24,9,5,41,,,57,Yes
+YUPELRI,Mylan,Pulmonology and Rheumatology,Pulmonology,COPD ,Maintenance treatment of adults with a lung disease called COPD ,2018,813,yes,no,yes,no - white majority,51,90,9,1,0,4,48,,,100,No. Dr. Bierer reviewed TA label
+ZEMDRI,Achaogen,Infectious Disease,Urinary tract infection,Urinary tract infection,Treatment of adults who have a complicated urinary tract infection ,2018,604,yes,no,yes,no - white majority,53,99,0,0,1,1,46,,,1,Yes
+ACCRUFER,Shield Therapeutics,Hematology,Other Hematology,Iron deficiency ,Treatment of iron deficiency ,2019,295,yes,no,yes,no - white majority,68,83,12,2,3,14,41,,,57,Yes
+ADAKVEO,Novartis,Hematology,Sickle Cell,Sickle Cell,Treatment of vasooclusive crisis in sickle cell disease ,2019,132,yes,no,no,no - black majority,55,5,91,,4,24,0,,,75,Yes
+AKLIEF,Galderma Laboratories,Dermatology,Acne vulgaris,Acne vulgaris,Treatment of acne vulgaris ,2019,2420,yes,yes,yes,yes,55,87,7,3,3,17,0,,,45,No. Dr. Bierer reviewed TA label
+TURALIO,Daiichi Sankyo,Oncology,Other oncology,Tenosynovial giant cell tumor ,Treatment of tenosynovial giant cell tumor ,2019,120,yes,no,no,no - white majority,59,88,3,3,6,14,6,,,38,Yes
+BEOVU,Novartis,Ophthalmology,Ophthalmology,Wet age-related macular degeneration ,Treatment of wet age-related macular degeneration ,2019,1459,yes,no,yes,no - white & asian majority,56,86,1,11,2,8,90,,,33,No. Dr. Bierer reviewed TA label
+ROZLYTREK,Genentech,Oncology,Non-small cell lung cancer (NSCLC),Non-small cell lung cancer (NSCLC),Treatment of non-small cell lung cancer ,2019,355,yes,no,no,no - white & asian majority,55,66,5,23,6,3,25,,,51,Yes
+CABLIVI,Ablynx,Hematology,Other Hematology,Thrombotic thrombocytopenic purpura ,Treatment of an episode of acquired thrombotic thrombocytopenic purpura ,2019,216,yes,no,yes,no - white majority,67,74,17,2,7,3,6,,,22,Yes
+CAPLYTA,Intra-Cellular Therapies,Psychiatry,Schizophrenia,Schizophrenia,Treatment of schizophrenia ,2019,818,yes,yes,yes,yes,24,21,75,1,3,9,0,,,100,Yes
+DAYVIGO,Eisai,Psychiatry,Sleep Disorders,Insomnia,Treatment of insomnia ,2019,1692,yes,yes,yes,yes,76,73,15,11,1,12,35,,,54,Yes
+EGATEN,Novartis,Infectious Disease,Other Infectious Diseases,Fascioliasis ,Treatment of fascioliasis ,2019,466,yes,no,yes,not collected,58,,,,,,4,,,0,No. Dr. Bierer reviewed TA label
+ENHERTU,Daiichi Sankyo,Oncology,Breast cancer,Breast cancer,Metastatic HER2-positive breast cancer ,2019,234,n/a - women,no,yes,no - white & asian majority,100,51,3,42,4,6,26,,,35,Yes
+EVENITY,Amgen,Gynecology,Gynecology,Osteoporosis in postmenopausal women ,Treatment of osteoporosis in postmenopausal women ,2019,11273,n/a - women,no,yes,no - white majority,100,62,2,10,26,37,82,,,2,No. Dr. Bierer reviewed TA label
+EXEM_FOAM,ExEm Foam Inc,Gynecology,Gynecology,Detection of fallopian tubes patency,Detection of fallopian tubes patency in women with infertility ,2019,182,n/a - women,no,not collected,not collected,100,,,,,,,,,0,No. Dr. Bierer reviewed TA label
+FETROJA,Shionogi,Infectious Disease,Urinary tract infection,Urinary tract infection,Treatment of complicated urinary tract infection ,2019,448,yes,no,yes,no - white majority,55,96,,3,1,2,53,,,2,No. Dr. Bierer reviewed TA label
+FLUORODOPA_F_18,The Feinstein Institutes for Medical Research,Neurology,Parkinson's,Detection of certain nerve cells in patients with Parkinsonian syndromes ,Detection of certain nerve cells in patients with Parkinsonian syndromes ,2019,56,yes,no,yes,not collected,32,,,,,,63,,,100,No. Dr. Bierer reviewed TA label
+Ga_68_DOTATOC,UHC – PET Imaging Center,Oncology,Neuroendocrine tumors,Detection of somatostatin receptor positive neuroendocrine tumors ,Detection of somatostatin receptor positive neuroendocrine tumors ,2019,334,yes,no,yes,no - white majority,57,94,2,1,3,2,18,,,100,No. Dr. Bierer reviewed TA label
+GIVLAARI,Alnylam Pharmaceuticals,Hematology,Other Hematology,Acute hepatic porphyria ,Treatment of acute hepatic porphyria ,2019,94,no,no,no,no - white majority,89,78,1,16,5,9,1,,,34,Yes
+IBSRELA,Ardelyx,Gastroenterology,Gastroenterology,Irritable bowel syndrome,Treatment of irritable bowel syndrome with constipation ,2019,1199,yes,yes,yes,yes,82,64,31,3,2,28,8,,,100,No. Dr. Bierer reviewed TA label
+BRUKINSA,BeiGene,Oncology,Lymphoma,Lymphoma,Treatment of mantle cell lymphoma ,2019,118,yes,no,yes,no - asian majority,25,21,1,76,2,,39,,,8,Yes
+JEUVEAU,Evolus,Dermatology,Other Dermatology,Temporary improvement of glabellar lines ,Temporary improvement of glabellar lines ,2019,654,no,no,no,no - white majority,91,84,8,2,6,0,10,,,100,No. Dr. Bierer reviewed TA label
+MAYZENT,Novartis,Neurology,Multiple Sclerosis,Multiple Sclerosis,Treatment of relapsing forms of multiple sclerosis ,2019,1651,yes,no,yes,no - white majority,60,95,1,3,1,6,0,,,9,Yes
+NOURIANZ,Kyowa Kirin,Neurology,Parkinson's,Parkinson's,Treatment of off episodes in patients with Parkinsons disease ,2019,1160,yes,no,yes,no,49,34,1,64,1,,52,,,32,Yes
+PIQRAY,Novartis,Oncology,Breast cancer,Breast cancer,Treatment of advanced breast cancer ,2019,571,n/a - women,no,yes,no - white majority,100,66,1,22,11,14,44,,,9,Yes
+OXBRYTA,Global Blood Therapeutics,Hematology,Sickle Cell,Sickle Cell,Treatment of sickle cell disease ,2019,182,yes,no,no,no - black majority,59,24,67,1,8,3,0,,,36,Yes
+INREBIC,Celgene,Oncology,Other oncology,Myelofibrosis ,Treatment of myelofibrosis ,2019,192,yes,yes,yes,yes,43,92,1,7,0,,45,,,8,Yes
+XPOVIO,Karyopharm Therapeutics Inc.,Oncology,Multiple Myeloma,Multiple Myeloma,Treatment of multiple myeloma ,2019,202,yes,no,yes,no - white majority,47,73,17,1,9,5,48,,,81,Yes
+BALVERSA,Janssen,Oncology,Bladder cancer,Bladder cancer,Treatment of urothelial carcinoma ,2019,87,yes,no,yes,no - white majority,21,74,2,5,19,2,61,,,22,Yes
+PRETOMANID,Mylan,Infectious Disease,Other Infectious Diseases,Lung tuberculosis ,Treatment of lung tuberculosis ,2019,109,yes,no,yes,no - black majority,48,1,76,,23,,0,,,0,No. Dr. Bierer reviewed TA label
+REBLOZYL,Celgene,Hematology,Other Hematology,Anemia,Treatment of anemia in patients with beta thalassemia ,2019,336,yes,yes,yes,yes,58,54,1,35,10,2,0,,,8,Yes
+RECARBRIO,Merck,Infectious Disease,Urinary tract infection,Urinary tract infection,Treatment of complicated urinary infection ,2019,430,yes,no,yes,no - white majority,43,92,1,3,4,6,30,,,4,No. Dr. Bierer reviewed TA label
+REYVOW,Eli Lilly,Neurology,Migraine,Migraine,Treatment of acute migraine ,2019,4439,yes,yes,yes,yes,84,78,18,1,3,18,4,,,90,Yes
+RINVOQ,AbbVie,Pulmonology and Rheumatology,Rheumatology,Rheumatoid arthritis ,Treatment of rheumatoid arthritis ,2019,3141,yes,yes,yes,yes,79,85,6,7,2,27,20,,,26,No. Dr. Bierer reviewed TA label
+POLIVY,Genentech,Oncology,Lymphoma,Lymphoma,Treatment of diffuse large B- cell lymphoma ,2019,80,no,no,no,no,34,71,4,12,13,3,61,,,30,Yes
+SCENESSE,Clinuvel,Hematology,Other Hematology,Erythropoietic protoporphyria,Increasing pain-free light exposure in patients with EPP ,2019,244,yes,no,no,no - white majority,47,98,0,1,1,,4,,,70,No. Dr. Bierer reviewed TA label
+SKYRIZI,AbbVie,Dermatology,Plaque psoriasis,Plaque psoriasis,Treatment of plaque psoriasis ,2019,1606,yes,no,yes,no - white majority,30,78,3,17,2,11,11,,,40,No. Dr. Bierer reviewed TA label
+SUNOSI,Jazz Pharmaceuticals,Psychiatry,Sleep Disorders,Narcolepsy or obstructive sleep apnea,Improvement of wakefulness in patients with narcolepsy or obstructive sleep apnea ,2019,622,yes,no,yes,no - white majority,49,77,18,2,3,8,12,,,90,Yes
+TISSUEBLUE,Dutch Ophthalmic,Ophthalmology,Ophthalmology,Staining the internal limiting membrane,Staining the internal limiting membrane,2019,96,no,no,no,no,63,,,,,,,,,,No. Dr. Bierer reviewed TA label
+TRIKAFTA,Vertex,Pulmonology and Rheumatology,Rheumatology,Cystic fibrosis,Treatment of cystic fibrosis ,2019,510,yes,no,yes,no - black majority,50,93,1,,6,4,0,,,60,No. Dr. Bierer reviewed TA label
+PADCEV,Astellas Pharma,Oncology,Bladder cancer,Bladder cancer,Treatment of urothelial carcinoma ,2019,125,yes,no,yes,no - white majority,30,85,2,9,4,4,64,,,94,Yes
+UBRELVY,Allergan,Neurology,Migraine,Migraine,Treatment of acute migraine ,2019,2423,yes,yes,yes,yes,89,82,15,1,2,15,3,,,100,Yes
+VYLEESI,AMAG Pharmaceuticals,Gynecology,Gynecology,Hypoactive sexual desire disorder,Treatment of women with hypoactive sexual desire disorder ,2019,1267,yes,no,yes,no - white majority,100,86,12,1,1,9,0,,,97,No. Dr. Bierer reviewed TA label
+VYNDAQEL/VYNDAMAX,Pfizer,Cardiovascular Diseases,Cardiomyopathy,Cardiomyopathy,Treatment of certain type of cardiomyopathy ,2019,441,yes,yes,yes,yes,10,81,14,,5,3,91,,,63,No. Dr. Bierer reviewed TA label
+VYONDYS_53,Serepta,Neurology,Muscular dystrophy,Muscular dystrophy,Treatment of Duchenne muscular dystrophy ,2019,62,no,no,no,no - white majority,0,86,2,6,6,16,0,,,81,Yes
+WAKIX,Harmony Bioscience,Psychiatry,Sleep Disorders,Narcolepsy,Treatment of excessive daytime sleepiness in patients with narcolepsy ,2019,266,yes,no,no,no - white majority,50,55,2,,43,,6,,,0,Yes
+XCOPRI,"SK Life Science, Inc.",Neurology,Seizures,Seizures,Treatment of partial-onset seizures ,2019,655,yes,no,no,no - white majority,49,74,3,21,2,7,2,,,29,Yes
+XENLETA,"NABRIVA Therapeutics, Inc.",Infectious Disease,Other Infectious Diseases,Bacterial pneumonia ,Treatment of community-acquired bacterial pneumonia ,2019,1289,yes,no,yes,no - white & asian majority,44,79,5,11,5,8,40,,,2,No. Dr. Bierer reviewed TA label
+NUBEQA,Bayer,Oncology,Prostate cancer,Prostate cancer,Treatment of prostate cancer ,2019,1509,n/a - men,no,yes,no - white & asian majority,0,79,3,13,5,3,87,,,9,Yes
+ZULRESSO,"Sage Therapeutics, Inc.",Psychiatry,Postpartum depression,Postpartum depression,Treatment of postpartum depression ,2019,247,n/a - women,yes,yes,yes,100,61,36,1,2,17,0,,,100,Yes
+ARTESUNATE,Amivas,Infectious Disease,Other Infectious Diseases,Malaria,Treatment of malaria,2020,1461,,,,,26,,,,,,3,,,0,Yes
+KOSELUGO,AstraZeneca,Oncology,Other oncology,Neurofibroma,Treatment of neurofibroma,2020,50,,,,,40,84,8,2,6,4,0,,,100,Yes
+BARHEMSYS,Acacia Pharma,Anesthesia and Analgesia,Anesthesia and Analgesia,Post-operative nausea and vomiting,Treatment of post-operative nausea and vomiting,2020,2323,,,,,88,79,9,1,11,10,14,,,63,No. Dr. Bierer reviewed TA label
+DANYELZA,Y-mAbs Therapeutics,Oncology,Other oncology,Neuroblastoma,Treatment of neuroblastoma,2020,97,,,,,37,69,3,18,10,6,0,,,84,Yes
+BYFAVO,Acacia Pharma,Anesthesia and Analgesia,Anesthesia and Analgesia,Sedation for short procedures,Sedation for short procedures,2020,966,,,,,52,78,17,4,1,8,31,,,100,No. Dr. Bierer reviewed TA label
+TAZVERIK,Epizyme,Oncology,Other oncology,Advanced epithelioid sarcoma,Treatment of advanced epithelioid sarcoma,2020,62,,,,,37,76,7,11,6,11,3,,,65,Yes
+TRODELVY,Immunomedics,Oncology,Breast cancer,Breast cancer,Treatment of breast cancer,2020,108,,,,,99,76,7,3,14,7,18,,,100,Yes
+TUKYSA,Seattle Genetics,Oncology,Breast cancer,Breast cancer,Treatment of breast cancer,2020,601,,,,,99,73,9,4,14,8,19,,,54,Yes
+DOJOLVI,Ultragenyx Pharmaceuticals,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Fatty acid oxidation disorder,Source of calories for fatty acid oxidation disorder,2020,265,,,,,52,87,5,4,4,9,0,,,91,No. Dr. Bierer reviewed TA label
+EBANGA,Ridgeback Biotherapeutics,Infectious Disease,Other Infectious Diseases,Ebola,Treatment of Ebola infection,2020,342,,,,,54,,,,,,3,,,0,Yes
+ENSPRYNG,Genentech,Neurology,Other Neurology,Neuromyelitis optica spectrum disorder,Treatment of neuromyelitis optica spectrum disorder,2020,116,,,,,91,48,12,35,5,9,,,,29,No. Dr. Bierer reviewed TA label
+EVRYSDI,Genentech,Neurology,Other Neurology,Spinal muscular atrophy,Treatment of spinal muscular atrophy,2020,201,,,,,53,69,1,19,11,3,0,,,3,Yes
+Ga 68 PSMA-11,"UCLA Nuclear Medicine, UCSF Nuclear Medicine",Oncology,Prostate cancer,Detection of specific cancer lesions in men with prostate cancer,Detection of specific cancer lesions in men with prostate cancer,2020,960,,,,,0,85,2,4,9,4,72,,,100,No. Dr. Bierer reviewed TA label
+MARGENZA,MacroGenics,Oncology,Breast cancer,Breast cancer,Treatment of metastatic HER2-positive breast cancer,2020,536,,,,,99,80,5,6,9,9,21,,,33,Yes
+GEMTESA,Urovant Sciences,Gynecology,Urology,Overactive bladder,Treatment of symptoms of overactive bladder,2020,1085,,,,,85,79,15,5,1,73,44,,,90,No. Dr. Bierer reviewed TA label
+IMCIVREE,RHYTHM Pharmaceuticals,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Obesity,Treatment of obesity in patients with certain rare disorder,2020,27,,,,,52,67,0,4,29,7,0,,,4,No. Dr. Bierer reviewed TA label
+INMAZEB,Regeneron,Infectious Disease,Other Infectious Diseases,Ebola,Treatment of Ebola infection,2020,322,,,,,55,,,,,,,,,0,Yes
+PEMAZYRE,Incyte,Oncology,Other oncology,Bile duct cancer,Treatment of metastatic bile duct cancer,2020,146,,,,,57,71,6,15,8,4,31,,,61,Yes
+ISTURISA,Novartis,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Cushing's disease,Treatment of Cushing's disease,2020,137,,,,,77,65,3,29,3,9,5,,,18,No. Dr. Bierer reviewed TA label
+KLISYRI,Almirall,Dermatology,Other Dermatology,Actinic keratosis,Treatment of actinic keratosis,2020,702,,,,,13,100,0,0,0,4,73,,,100,No. Dr. Bierer reviewed TA label
+RETEVMO,Eli Lilly,Oncology,Other oncology,Cancers caused by specific genes,Treatment of certain cancers caused by specific genes,2020,702,,,,,48,69,3,22,6,5,34,,,61,Yes
+LAMPIT,Bayer,Infectious Disease,Other Infectious Diseases,Chagas disease,Treatment of Chagas disease,2020,219,,,,,54,71,0,0,29,99,0,,,0,Yes
+ZEPZELCA,"Pharma Mar, S.A.",Oncology,Other oncology,Small cell lung cancer,Treatment of small cell lung cancer,2020,105,,,,,40,75,1,1,23,,35,,,10,Yes
+GAVRETO,Blueprint Medicines Corporation,Oncology,Non-small cell lung cancer (NSCLC),Non-small cell lung cancer (NSCLC),Treatment of non-small cell lung cancer,2020,220,,,,,52,50,0,41,9,4,37,,,26,Yes
+NEXLETOL,Esperion,Endocrinology and Metabolism,Other Endocrinology and Metabolism,High LDL cholesterol,Treatment of high LDL cholesterol,2020,3009,,,,,29,96,3,1,0,3,58,,,26,No. Dr. Bierer reviewed TA label
+NURTEC,Biohaven Pharmaceutical,Neurology,Migraine,Migraine,Treatment of acute migraine,2020,1351,,,,,85,75,20,2,3,19,2,,,100,Yes
+OLINVYK,Trevena,Anesthesia and Analgesia,Anesthesia and Analgesia,Acute pain,Treatment of acute pain,2020,1558,,,,,79,72,23,2,3,19,18,,,100,No. Dr. Bierer reviewed TA label
+ONGENTYS,Neurocrine Biosciences,Neurology,Parkinson's,Parkinson's,"Treatment of ""off episodes"" in Parkinson's disease",2020,522,,,,,42,85,0,14,1,,48,,,0,Yes
+DETECTNET,RadioMedix,Oncology,Neuroendocrine tumors,Neuroendocrine tumors,Detection of certain neuro-endocrine tumors,2020,175,,,,,48,31,3,1,65,6,38,,,36,No. Dr. Bierer reviewed TA label
+ORLADEYO,BioCryst Pharmaceuticals,Dermatology,Other Dermatology,Hereditary angioedema,Prevention of hereditary angioedema attacks,2020,120,,,,,66,94,3,1,2,3,8,,,63,No. Dr. Bierer reviewed TA label
+OXLUMO,Alnylam Pharmaceuticals,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Primary hyperoxaluria type 1,Treatment of primary hyperoxaluria type 1,2020,55,,,,,40,80,0,11,9,4,0,,,25,No. Dr. Bierer reviewed TA label
+QINLOCK,Deciphera Pharmaceuticals,Oncology,Other oncology,Gastrointestinal stromal tumors,Treatment of gastrointestinal stromal tumors,2020,129,,,,,43,75,8,7,10,1,39,,,47,Yes
+PIZENSY,Braintree Laboratories,Gastroenterology,Gastroenterology,Chronic idiopathic constipation,Treatment of chronic idiopathic constipation,2020,594,,,,,76,60,31,7,2,38,27,,,100,No. Dr. Bierer reviewed TA label
+AYVAKIT,Blueprint Medicines Corporation,Oncology,Other oncology,Gastrointestinal stromal tumors,Treatment of gastrointestinal stromal tumors,2020,204,,,,,39,72,4,10,14,3,40,,,45,Yes
+BLENREP,GlaxoSmithKline,Oncology,Multiple Myeloma,Multiple Myeloma,Treatment of multiple myeloma,2020,97,,,,,47,78,16,2,4,4,53,,,61,Yes
+RUKOBIA,ViiV Healthcare,Infectious Disease,HIV-1,HIV-1,Treatment of HIV-1 infection,2020,272,,,,,26,68,22,1,9,29,4,,,32,Yes
+TABRECTA,Novartis,Oncology,Non-small cell lung cancer (NSCLC),Non-small cell lung cancer (NSCLC),Treatment of non-small cell lung cancer,2020,334,,,,,41,74,1,24,1,7,57,,,10,Yes
+SOGROYA,Novo Nordisk,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Replacement of growth hormone,Replacement of growth hormone,2020,300,,,,,52,67,2,29,2,6,14,,,26,No. Dr. Bierer reviewed TA label
+SARCLISA,Sanofi,Oncology,Multiple Myeloma,Multiple Myeloma,Treatment of multiple myeloma,2020,307,,,,,48,80,1,12,7,2,60,,,2,Yes
+TAUVID,Eli Lilly,Neurology,Alzheimer's disease,Alzheimer's disease,Detection of aggregated neurofibrillary tangles in Alzheimer's disease,2020,1921,,,,,50,86,5,6,3,5,80,,,77,No. Dr. Bierer reviewed TA label
+MONJUVI,MorphoSys,Oncology,Lymphoma,Lymphoma,Treatment of diffuse large b-cell lymphoma,2020,81,,,,,46,89,0,3,8,,69,,,7,Yes
+TEPEZZA,Horizon,Ophthalmology,Ophthalmology,Thyroid eye disease,Treatment of thyroid eye disease,2020,170,,,,,73,87,8,4,1,5,15,,,57,No. Dr. Bierer reviewed TA label
+INQOVI,Taiho Oncology,Oncology,Other oncology,Myelodyspastic syndromes,Treatment of myelodyspastic syndromes,2020,213,,,,,31,92,3,2,3,5,75,,,82,Yes
+ORGOVYX,Myovant Sciences,Oncology,Prostate cancer,Prostate cancer,Treatment of prostate cancer,2020,930,,,,,0,68,5,21,6,9,81,,,24,Yes
+UPLIZNA,Viela Bio,Neurology,Other Neurology,Neuromyelitis optica spectrum disorder,Treatment of neuromyelitis optica spectrum disorder,2020,213,,,,,94,52,9,21,18,19,5,,,18,No. Dr. Bierer reviewed TA label
+VEKLURY,Gilead,Infectious Disease,Other Infectious Diseases,COVID-19,Treatment of COVID-19,2020,2043,,,,,37,57,18,14,11,21,35,,,65,Yes
+VILTEPSO,NS Pharma,Neurology,Muscular dystrophy,Muscular dystrophy,Treatment of Duchenne muscular dystrophy,2020,16,,,,,0,44,0,56,0,6,0,,,38,Yes
+VYEPTI,Lundbeck,Neurology,Migraine,Migraine,Treatment of migraine,2020,1741,,,,,87,88,9,1,2,12,1,,,68,Yes
+WINLEVI,Cassiopea SpA,Dermatology,Acne vulgaris,Acne vulgaris,Treatment of acne vulgaris,2020,1440,,,,,63,90,6,2,2,14,0,,,41,No. Dr. Bierer reviewed TA label
+XEGLYZE,Dr. Reddy’s Laboratories,Dermatology,Other Dermatology,Head lice,Treatment of head lice,2020,699,,,,,84,97,1,0,2,66,0,,,100,No. Dr. Bierer reviewed TA label
+ZEPOSIA,Celgene,Neurology,Multiple Sclerosis,Multiple Sclerosis,Treatment of multiple sclerosis,2020,1767,,,,,67,99,1,0,0,1,0,,,3,Yes
+CERIANNA,Zionexa,Oncology,Breast cancer,Breast cancer,Detection of estrogen positive lesions in breast cancer,2020,109,,,,,100,15,2,83,0,0,,,,17,No. Dr. Bierer reviewed TA label
+ZOKINVY,"Eiger BioPharmaceuticals, Inc.",Endocrinology and Metabolism,Other Endocrinology and Metabolism,Premature aging,Treatment of rare conditions related to premature aging,2020,63,,,,,48,,,,,,0,,,19,No. Dr. Bierer reviewed TA label
+Besremi,PharmaEssentia Corporation,Hematology,Other Hematology,Polycythemia vera,To treat polycythemia vera,2021,51,,,,,39,98,0,1,1,,33,,,,No. Dr. Bierer reviewed TA label
+Cosela,G1 Therapeutics,Oncology,Other oncology,Chemotherapy-induced myelosuppression,To mitigate chemotherapy-induced myelosuppression in small cell lung cancer,2021,245,,,,,33,95,,,5,,47,,,,No. Dr. Bierer reviewed TA label
+Empaveli ,Apellis Pharmaceuticals,Hematology,Other Hematology,Paroxysmal nocturnal hemoglobinuria,To treat paroxysmal nocturnal hemoglobinuria,2021,80,,,,,61,61,3,15,21,,21,,,,No. Dr. Bierer reviewed TA label
+Evkeeza,Regeneron,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Homozygous familial hypercholesterolemia,To treat homozygous familial hypercholesterolemia,2021,65,,,,,54,74,3,15,8,3,12,,,,No. Dr. Bierer reviewed TA label
+Kerendia ,Bayer,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Kidney and heart complications in chronic kidney disease associated with type 2 diabetes,To reduce the risk of kidney and heart complications in chronic kidney disease associated with type 2 diabetes,2021,5674,,,,,30,63,5,25,7,15,58,,,,No. Dr. Bierer reviewed TA label
+Leqvio,Novartis,Cardiovascular Diseases,Other Cardiovascular Diseases,Heterozygous familial hypercholesterolemia or clinical ASCVD,To treat heterozygous familial hypercholesterolemia or clinical ASCVD,2021,3457,,,,,32,92,6,1,1,6,53,,,,No. Dr. Bierer reviewed TA label
+Skytrofa ,Ascendis Pharma,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Short stature,To treat short stature due to inadequate secretion of endogenous growth hormone,2021,162,,,,,18,94,2,1,3,4,0,,,,No. Dr. Bierer reviewed TA label
+Verquvo,Merck,Cardiovascular Diseases,Heart failure,Heart failure,To mitigate the risk of cardiovascular death and hospitalization for chronic heart failure,2021,5050,,,,,24,64,5,22,9,16,63,,,,No. Dr. Bierer reviewed TA label
+Voxzogo,BioMarin Pharmaceutical,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Children achondroplasia,To improve growth in children achondroplasia,2021,121,,,,,47,71,4,19,6,6,0,,,,No. Dr. Bierer reviewed TA label
+Zegalogue-1,Zealand Pharma,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Severe hypoglycemia- adults,To treat severe hypoglycemia– adults,2021,212,,,,,40,92,2,3,3,8,4,,,,No. Dr. Bierer reviewed TA label
+Zegalogue-2,Zealand Pharma,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Severe hypoglycemia- pediatrics,To treat severe hypoglycemia– pediatrics,2021,41,,,,,52,94,,,6,17,0,,,,No. Dr. Bierer reviewed TA label
+Adbry ,LEO Pharma,Dermatology,Other Dermatology,Atopic dermatitis,To treat moderate-to-severe atopic dermatitis,2021,1976,,,,,48,69,7,21,3,5,5,,,,No. Dr. Bierer reviewed TA label
+Bylvay,Albireo Pharma,Dermatology,Other Dermatology,Pruritus in progressive familial intrahepatic cholestasis,To treat pruritus in progressive familial intrahepatic cholestasis,2021,62,,,,,50,84,3,3,10,2,0,,,,No. Dr. Bierer reviewed TA label
+Korsuva ,Cara Therapeutics,Dermatology,Other Dermatology,Pruritus in chronic kidney disease,To treat moderate-to-severe pruritus in chronic kidney disease,2021,378,,,,,40,61,29,5,5,32,33,,,,No. Dr. Bierer reviewed TA label
+Livmarli,Mirum Pharmaceuticals,Dermatology,Other Dermatology,Cholestatic pruritus in Alagille syndrome,To treat cholestatic pruritus in Alagille syndrome,2021,36,,,,,34,,,,,,0,,,,No. Dr. Bierer reviewed TA label
+Lupkynis,Aurinia Pharmaceuticals,Pulmonology and Rheumatology,Rheumatology,Lupus,To treat lupus nephritis ,2021,533,,,,,86,38,10,37,15,26,1,,,,No. Dr. Bierer reviewed TA label
+Saphnelo,AstraZeneca,Pulmonology and Rheumatology,Rheumatology,Lupus,To treat moderate-to-severe systemic lupus erythematosus along with standard therapy,2021,1017,,,,,93,60,13,9,18,28,3,,,,No. Dr. Bierer reviewed TA label
+Tavneos ,ChemoCentryx,Pulmonology and Rheumatology,Rheumatology,Severe active anti-neutrophil cytoplasmic autoantibody-associated vasculitis,To treat severe active anti-neutrophil cytoplasmic autoantibody-associated vasculitis,2021,330,,,,,44,84,2,10,4,4,49,,,,No. Dr. Bierer reviewed TA label
+Tezspire,AstraZeneca,Pulmonology and Rheumatology,Pulmonology,Asthma,To treat severe asthma as an add-on therapy,2021,1609,,,,,64,68,5,23,4,12,16,,,,No. Dr. Bierer reviewed TA label
+Brexafemme ,Scynexis,Infectious Disease,Other Infectious Diseases,Vulvovaginal candidiasis,To treat vulvovaginal candidiasis,2021,831,,,,,100,67,30,2,1,18,1,,,,Yes
+Cabenuva,ViiV Healthcare,Infectious Disease,HIV-1,HIV-1,To treat human immunodeficiencyvirus-1 (HIV-1),2021,1182,,,,,28,71,21,5,3,12,19,,,,Yes
+Fexinidazole,Sanofi,Infectious Disease,Other Infectious Diseases,Human African trypanosomiasis,To treat human African trypanosomiasis,2021,749,,,,,44,,,,,,31,,,,Yes
+Livtencity,Takeda,Infectious Disease,Other Infectious Diseases,Cytomegalovirus infection,To treat cytomegalovirus infection,2021,352,,,,,39,76,13,5,6,6,20,,,,Yes
+Aduhelm ,Biogen,Neurology,Alzheimer's disease,Alzheimer's disease,To treat Alzheimer’s disease,2021,3482,,,,,52,78,1,9,12,3,79,,,,No. Dr. Bierer reviewed TA label
+Amondys 45,Sarepta Therapeutics,Neurology,Muscular dystrophy,Muscular dystrophy,To treat Duchenne muscular dystrophy,2021,43,,,,,0,89,0,6,5,6,0,,,,No. Dr. Bierer reviewed TA label
+Azstarys,Commave Therapeutics,Psychiatry,Attention-deficit hyperactivity disorder,Attention-deficit hyperactivity disorder,To treat attention-deficit hyperactivity disorder,2021,305,,,,,39,51,37,5,7,27,0,,,,No. Dr. Bierer reviewed TA label
+Lybalvi ,Alkermes,Psychiatry,Schizophrenia,Schizophrenia,To treat schizophrenia and aspects of bipolar I disorder,2021,1273,,,,,32,44,52,,4,8,1,,,,No. Dr. Bierer reviewed TA label
+Ponvory ,Janssen,Neurology,Multiple Sclerosis,Multiple Sclerosis,To treat relapsing forms of multiple sclerosis,2021,1597,,,,,65,97,1,,2,4,35,,,,No. Dr. Bierer reviewed TA label
+Qelbree ,Supernus,Psychiatry,Attention-deficit hyperactivity disorder,Attention-deficit hyperactivity disorder,To treat attention-deficit hyperactivity disorder,2021,1388,,,,,36,53,42,1,4,,0,,,,No. Dr. Bierer reviewed TA label
+Qulipta ,AbbVie,Neurology,Migraine,Migraine,To prevent episodic migraines,2021,1744,,,,,88,80,17,1,2,13,3,,,,No. Dr. Bierer reviewed TA label
+Vyvgart ,Argenx BV,Neurology,Other Neurology,Generalized myasthenia gravis,To treat generalized myasthenia gravis,2021,167,,,,,71,84,4,10,2,5,15,,,,No. Dr. Bierer reviewed TA label
+Exkivity ,Takeda,Oncology,Non-small cell lung cancer (NSCLC),Non-small cell lung cancer (NSCLC),To treat types of locally advanced or metastatic nonsmall cell lung cancer,2021,114,,,,,66,37,3,60,0,1,37,,,,Yes
+Fotivda ,Aveo Pharmaceuticals,Oncology,Other oncology,Renal cell carcinoma,To treat renal cell carcinoma,2021,350,,,,,27,95,1,1,3,6,45,,,,Yes
+Jemperli ,GlaxoSmithKline,Oncology,Other oncology,Endometrial cancer,To treat endometrial cancer,2021,381,,,,,100,82,1,3,14,,49,,,,Yes
+Lumakras ,Amgen,Oncology,Non-small cell lung cancer (NSCLC),Non-small cell lung cancer (NSCLC),To treat types of non-small cell lung cancer,2021,124,,,,,55,80,3,15,2,2,56,,,,Yes
+Pepaxto ,Oncopeptides AB,Oncology,Multiple Myeloma,Multiple Myeloma,To treat relapsed or refractory multiple myeloma,2021,97,,,,,43,86,7,,7,3,50,,,,Yes
+Rezurock ,Kadmon Pharmaceuticals,Oncology,Other oncology,Chronic graft vs host disease,To treat chronic graft vs host disease,2021,65,,,,,35,83,9,,8,,26,,,,Yes
+Rybrevant ,Janssen,Oncology,Non-small cell lung cancer (NSCLC),Non-small cell lung cancer (NSCLC),To treat types of non-small cell lung cancer,2021,81,,,,,61,35,2,55,8,3,41,,,,Yes
+Rylaze ,Jazz Pharmaceuticals,Oncology,Leukemia,Leukemia,To treat acute lymphoblastic leukemia (ALL) and lymphoplastic lymphoma in patients who allergic to E. coli-derived asparaginase products,2021,102,,,,,43,72,12,5,11,34,0,,,,Yes
+Scemblix ,Novartis,Oncology,Leukemia,Leukemia,To treat Philadelphia chromosome-positive chronic myeloid leukemia,2021,233,,,,,48,75,5,14,6,10,18,,,,Yes
+Tepmetko ,EMD Serono,Oncology,Non-small cell lung cancer (NSCLC),Non-small cell lung cancer (NSCLC),To treat types of non-small cell lung cancer,2021,152,,,,,52,67,1,28,4,1,79,,,,Yes
+Tivdak ,Seagen,Oncology,Other oncology,Cervical cancer,To treat recurrent or metastatic cervical cancer,2021,101,,,,,100,95,1,2,2,6,13,,,,Yes
+Truseltiq ,QED Therapeutics,Oncology,Other oncology,Cholangiosarcoma,To treat cholangiosarcoma,2021,108,,,,,38,78,4,10,8,3,24,,,,Yes
+Ukoniq ,TG Therapeutics,Oncology,Lymphoma,Lymphoma,To treat follicular lymphoma and marginal zone lymphoma,2021,186,,,,,43,89,6,3,2,5,56,,,,Yes
+Welireg ,Merck,Oncology,Other oncology,von Hippel Landau disease,To treat von Hippel Landau disease,2021,61,,,,,48,90,3,2,5,10,3,,,,Yes
+Zynlonta ,ADC Therapeutics,Oncology,Lymphoma,Lymphoma,To treat types of relapsed or refractory large B-cell lymphoma,2021,145,,,,,41,90,3,2,5,9,55,,,,Yes
+Cytalux ,On Target Laboratories,Oncology,Other oncology,Ovarian cancer,To use for ovarian cancer imaging,2021,134,,,,,100,85,5,5,5,12,26,,,,No. Dr. Bierer reviewed TA label
+Nextstellis ,Jazz Pharmaceuticals,Gynecology,Gynecology,Pregnancy prevention,To prevent pregnancy ,2021,3417,,,,,100,70,20,5,5,26,0,,,,No. Dr. Bierer reviewed TA label
+Nexviazyme ,Genzyme,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Late-onset Pompe disease,To treat late-onset Pompe disease,2021,100,,,,,48,87,4,8,1,12,12,,,,No. Dr. Bierer reviewed TA label
+Nulibry ,Origin Biosciences,Endocrinology and Metabolism,Other Endocrinology and Metabolism,Molybdenum cofactor deficiency Type A,To reduce risk of mortality in molybdenum cofactor deficiency Type A,2021,31,,,,,35,68,,22,10,10,0,,,,No. Dr. Bierer reviewed TA label
+Pylarify ,Progenics Pharmaceuticals,Oncology,Prostate cancer,Prostate cancer,To identify prostate-specific membrane antigen-positive lesions in prostate cancer,2021,593,,,,,0,89,7,2,2,4,60,,,,No. Dr. Bierer reviewed TA label
