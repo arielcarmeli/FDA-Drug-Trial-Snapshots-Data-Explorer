@@ -186,16 +186,16 @@ ui <- fluidPage(
         tabPanel("Welcome + Instructions",
             mainPanel(
                 h3("Welcome"),
-                p("Welcome to our Data Visualization Explorer of the FDA Drug Trials Snapshots Data from 2015-2021"),
-                p("The FDA Snapshots program began in 2015 and reflects approved New Molecular Entities (NMEs)
-                  and original biologics, and the data from pivotal clinical trials."),
-                p("The purpose of this Data Explorer is to visualize the current state of clinical trial participation
-                  across age, sex, race, ethnicity for 339 FDA approvals from 2015-2021. We hope this data
-                  empowers you and your organization to make evidence-based decisions to advance health 
-                  equity in research and clinical care"),
+                p("Welcome to a Data Visualization Explorer of the Food and Drug Administration (FDA) Drug Trials Snapshots (DTS) data from 2015-2021"),
+                p("The FDA DTS program was launched in 2015 and reports clinical trial demographic data for new molecular 
+                  entities and original biologics."),
+                p("FDA data can be explored by race, ethnicity, sex, age group, therapeutic area, pharmaceutical sponsor, and approval year 
+                  for clinical trials that supported each of the 339 FDA drug and biologic approvals between 2015-2021
+                  We hope this data empowers you and your organization to make evidence-based decisions to improve trial representation
+                  and advance health equity."),
                 p("All data shown here are publicly available on various locations on FDA's website and 
-                our team at Harvard Medical School has scraped and processed these data to serve as input to this 
-                  novel interactive visualization tool."),
+                  our team at Harvard Medical School has scraped and processed these data to serve as input to this 
+                  interactive visualization tool."),
                 downloadButton("download_raw_data", "Download 2015-2021 FDA Drug Trials Snapshots Data"),
                 br(),
                 
@@ -207,6 +207,9 @@ ui <- fluidPage(
                 p("To explore. Dynamic inputs allow you to filter clinical trial enrollment by age, sex, 
                   race, ethnicity and visualize the distributions of these demographics over time and 
                   across Therapeutic Areas."),
+                tags$b("Detail by Demographic Participation"),
+                p("To hone in on specific thresholds of participation. Dynamic inputs select race or ethnicity and 
+                  demographic participation rate to explore and compare the characteristics of trials above or below the chosen rate."),
                 tags$b("Detail by Therapeutic Area"),
                 p("To hone in on specific Therapeutic Areas. Dynamic inputs to explore clinical trial enrollment
                   across demographics and pharma sponsor, and compare enrollment to disease burden."),
@@ -367,10 +370,10 @@ ui <- fluidPage(
                  mainPanel(
                      
                      h2("Distribution of Participation by Demographic in Clinical Trials Across FDA approvals"),
-                     h6("Each dot represents demographic data from individuals who participated in clinical trial(s) used to 
-                        inform regulatory approval of each new molecular entity or original biologic"),
+                     h6("Each dot represents represents the proportion of patient enrollment that a certain race or ethnicity 
+                        represents in each clinical trial used to inform regulatory approval of each new molecular entity or original biology"),
                      #plotOutput("individualPlotGriswold", heigh=700, width = 1200),
-                     plotlyOutput("individualPlot", height=700, width = 1200),
+                     plotlyOutput("individualPlot", height=750, width = 1200),
 
                      h2("Data Table: Median and Average of Clinical Trial Participation"),
                      h6("Median and Average are calculated without accounting for trial size."),
@@ -384,7 +387,7 @@ ui <- fluidPage(
                      h6("Boxplots represents 5 points in the distribution: Middle line is median. 
                         Ends of the box are 1st and 3rd quartile.
                         Ends of the whiskers are 1.5 * inter-quartile range from the closer of 1st or 3rd quartile"),
-                     plotOutput("change_over_time", height = 700),
+                     plotOutput("change_over_time", height = 600),
 
                      h2("Count of FDA Approvals Per Participation in Clinical Trials"),
                      h6("Here we zoom in to the tail of the distribution and allow you to count how many 
@@ -538,9 +541,8 @@ ui <- fluidPage(
                  mainPanel(
                      
                      h2("Distribution of Participation by Demographic in Clinical Trials Across FDA approvals"),
-                     h6("Each dot represents demographic data from individuals who participated in clinical trial(s) used to 
-                        inform regulatory approval of each new molecular entity or original biologic in the 
-                        therapeutic area you have selected"),
+                     h6("Each dot represents represents the proportion of patient enrollment that a certain race or ethnicity 
+                        represents in each clinical trial used to inform regulatory approval of each new molecular entity or original biology"),
                      plotlyOutput("TA_individualPlot", height = 800),
                      
                      h2("Trend in Clinical Trial Participation by Demographic Over Time"),
@@ -554,7 +556,7 @@ ui <- fluidPage(
                      h6("Note: This analysis is only available with oncology and infectious disease. 
                         You wil see a red error message below if you have selected a different TA"),
                      h6("Table below the graph reflects incidence data collected from NCI SEER and the CDC"),
-                     plotOutput("TA_Disease_Burden_Comparison", height = 700),
+                     plotOutput("TA_Disease_Burden_Comparison", height = 700), #height = 325, width - 800
                      DT::dataTableOutput("Disease_Burden_table"),
                      
                      h2("Approval Details"),
@@ -562,7 +564,8 @@ ui <- fluidPage(
                  )
              )
         )
-    )
+    ),
+    tags$head(tags$style(HTML('* {font-family: "Arial"};')))
 )
 
 ################################
@@ -1266,10 +1269,10 @@ server <- function(input, output) {
             theme(legend.position = "top",
                   legend.title = element_blank(),
                   legend.text = element_text(size=20),
-                  axis.text.x = element_text(size=12),
-                  axis.text.y = element_text(size=12),
-                  axis.title.x=element_text(size=12, face="bold"), 
-                  axis.title.y=element_text(size=12, face="bold")) #+ 
+                  axis.text.x = element_text(size=16),
+                  axis.text.y = element_text(size=16),
+                  axis.title.x=element_text(size=16, face="bold"), 
+                  axis.title.y=element_text(size=16, face="bold")) #+ 
             #coord_flip()
         
         if ( input$is_TA_Stratified ) {
@@ -1453,11 +1456,11 @@ server <- function(input, output) {
                                    label = Count)) + 
             geom_bar(position="stack", stat="identity") +
             facet_wrap(~Indication) + 
-            geom_text(size = 8, position = position_stack(vjust = 0.5)) + 
+            geom_text(size = 7, position = position_stack(vjust = 0.5)) + 
             scale_fill_manual(values=group.colors) + 
-            theme(axis.text = element_text(size=12),
-                  axis.title=element_text(size=14, face="bold"),
-                  strip.text.x = element_text(size = 12),
+            theme(axis.text = element_text(size=16),
+                  axis.title=element_text(size=16, face="bold"),
+                  strip.text.x = element_text(size = 16),
                   legend.text = element_text(size=14),
                   legend.position = "top",
                   legend.title = element_blank())

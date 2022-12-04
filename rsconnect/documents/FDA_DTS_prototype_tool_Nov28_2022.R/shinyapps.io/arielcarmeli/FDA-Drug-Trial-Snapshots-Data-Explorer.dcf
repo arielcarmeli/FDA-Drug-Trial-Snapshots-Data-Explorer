@@ -5,9 +5,9 @@ account: arielcarmeli
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7750064
-bundleId: 6563328
+bundleId: 6584940
 url: https://arielcarmeli.shinyapps.io/FDA-Drug-Trial-Snapshots-Data-Explorer/
-when: 1669654264.41123
-lastSyncTime: 1669654264.41124
+when: 1670042556.53353
+lastSyncTime: 1670042556.53354
 asMultiple: FALSE
 asStatic: FALSE
