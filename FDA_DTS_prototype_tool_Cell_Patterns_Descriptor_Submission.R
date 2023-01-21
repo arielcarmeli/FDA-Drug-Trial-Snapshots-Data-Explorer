@@ -667,7 +667,7 @@ server <- function(input, output) {
                                                               equal_or_less$Enrollment_bucket)]
       equal_or_less_all_categories <- equal_or_less_all_categories %>% replace(is.na(.),0)
       equal_or_less_all_categories <- equal_or_less_all_categories %>% mutate(percent = count / sum(equal_or_less_all_categories$count))
-      equal_or_less_all_categories$over_under_label <- "Equal_or_under"
+      equal_or_less_all_categories$over_under_label <- "Equal or under"
       
       more_all_categories <- categories
       more_all_categories$count <- more$count[match(more_all_categories$Enrollment_bucket,
@@ -698,7 +698,7 @@ server <- function(input, output) {
                                                                       equal_or_less$Therapeutic_Area)]
       equal_or_less_all_categories <- equal_or_less_all_categories %>% replace(is.na(.),0)
       equal_or_less_all_categories <- equal_or_less_all_categories %>% mutate(percent = count / sum(equal_or_less_all_categories$count))
-      equal_or_less_all_categories$over_under_label <- "Equal_or_under"
+      equal_or_less_all_categories$over_under_label <- "Equal or under"
       
       more_all_categories <- categories
       more_all_categories$count <- more$count[match(more_all_categories$Therapeutic_Area,
